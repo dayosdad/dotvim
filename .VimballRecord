@@ -1,0 +1,1 @@
+calutil.vba: call delete('/home/tony/.vim/doc/calutil.txt')|call delete('/home/tony/.vim/autoload/calutil.vim')
